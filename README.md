@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Upgrading my Skills**
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Java**
 
 - 👯 I’m looking to collaborate on **Single Page Applications**
 
