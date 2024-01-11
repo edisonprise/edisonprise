@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Upgrading my Skills**
+- 🔭 I’m currently working on **Projects in JavaScript and Java**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java, typeScript**
 
-- 👯 I’m looking to collaborate on **Single Page Applications**
+- 👯 I’m looking to collaborate on **Big projects in Companies**
 
 - 🤝 I’m looking for help with **Jobs Offers**
 
