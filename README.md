@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Jobs Offers**
 
-- 💬 Ask me about **JavaScript, React, Postgres**
+- 💬 Ask me about **JavaScript, React, Postgres, MongoDB**
 
 - 📫 How to reach me **edisonprise@hotmail.com**
 
