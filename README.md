@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Big projects in Companies**
 
-- 🤝 I’m looking for help with **Jobs Offers**
+- 🤝 I’m looking for **Jobs Offers**
 
 - 💬 Ask me about **JavaScript, React, Postgres, MongoDB, TailwindCSS**
 
