@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Projects in JavaScript and Java**
 
-- 🌱 I’m currently learning **Java, typeScript**
+- 🌱 I’m currently learning **Data Analytics, Java, typeScript**
 
 - 👯 I’m looking to collaborate on **Big projects in Companies**
 
